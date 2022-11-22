@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janna112358
-- 🌱 I’m currently learning F# (front-end with Elmish, and back-end), PostgreSQL, HTML and CSS
+- 🌱 I’m currently advancing my knowledge of F#, Postgres, SAFE stack, and Domain Driven Design
 - 🔨 I work at [Impact Institute](https://www.impactinstitute.com/ "Impact Institute's home page")
 - 📫 How to reach me ... janna@impactinstitute.com
 
