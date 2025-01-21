@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay - @Janna112358
-- 🌱 I’m currently advancing my knowledge of F#, Postgres, and software architecture and design
+- 🌱 I'm thriving in F# APIs and advancing my knowledge with web development
 - 🔨 I work at [Impact Institute](https://www.impactinstitute.com/ "Impact Institute's home page")
 - 📫 How to reach me ... jay@impactinstitute.com
 
