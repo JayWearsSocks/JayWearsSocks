@@ -1,7 +1,7 @@
 👋 Hi, I’m Jay  
-🌱 I'm thriving in F# APIs and advancing my knowledge in DevOps and web development  
-🔨 I work at [Impact Institute](https://www.impactinstitute.com/ "Impact Institute's home page")  
-📫 Reach me at jay@impactinstitute.com  
+🌱 I'm an experienced F# developer and keen on advancing my DevOps knowledge
+🔨 I'm looking for a new role!
+📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/jay-goldstein-631b2b173/)
 📃 [View my web cv](https://jaywearssocks.github.io/jay-cv/ "Jay Goldstein web cv")
 
 <!---
